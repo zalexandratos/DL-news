@@ -1,3 +1,3 @@
 name: The Dunn Loring News
-markdown: CommonMarkGhPages
+markdown: kramdown
 theme: jekyll-theme-modernist
