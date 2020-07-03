@@ -1,6 +1,6 @@
 # <span style="color: red">THE NEIGHBORHOOD NEWS</span>
 
-### Written by Zouli{: style="color: green"}
+### Written by Zouli
 
 ## WEATHER
 Welcome to the news! Today we'll start with the weather report. It has a high of 81 degrees and a low of 59 degrees. It is also a very sunny day. We recommend wearing sunscreen to protect your skin.
