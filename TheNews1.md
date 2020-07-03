@@ -1,4 +1,4 @@
-# THE NEIGHBORHOOD NEWS
+# <span style="color: red">THE NEIGHBORHOOD NEWS</span>
 
 ### Written by Zouli
 
